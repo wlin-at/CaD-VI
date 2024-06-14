@@ -1,6 +1,8 @@
 # CaD-VI
 Comparison Visual Instruction Tuning (CaD-VI)  
-[🤗 Dataset](https://huggingface.co/datasets/wlin21at/CaD-Inst)
+[Project Page](https://wlin-at.github.io/cad_vi)  
+[🤗 Dataset](https://huggingface.co/datasets/wlin21at/CaD-Inst)  
+[Arxiv Paper](https://arxiv.org/abs/2406.09240)
 
 ## Installation
 For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](docs/INSTALL.md).
